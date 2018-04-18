@@ -1,11 +1,11 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "MERN-boilerplate-with-CORS()",
   "version": "1.0.0",
   "description": "MERN stack project boilerplate",
-  "author": "Eugene Cheung",
+  "author": "Ahmed Baig",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkon/MERN-boilerplate.git"
+    "url": "git+https://github.com/ahmedbaig/MERN-fetch-with-CORS"
   },
   "license": "MIT",
   "private": true,
